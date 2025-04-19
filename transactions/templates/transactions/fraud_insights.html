@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Fraud Insights</h2>
+    <p><strong>Total Fraudulent Transactions:</strong> {{ total_fraud }}</p>
+    <p><strong>Fraud Percentage:</strong> {{ fraud_percentage|floatformat:2 }}%</p>
+
+    {% if fraudulent_transactions %}
+        <h3>Flagged Transactions</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Amount</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for transaction in fraudulent_transactions %}
+                <tr>
+                    <td>{{ transaction.id }}</td>
+                    <td>${{ transaction.amount }}</td>
+                    <td>{{ transaction.timestamp }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No fraudulent transactions detected.</p>
+    {% endif %}
+</div>
+{% endblock %}

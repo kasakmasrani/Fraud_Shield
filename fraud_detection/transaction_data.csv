@@ -1,0 +1,501 @@
+transaction_id,amount,user_history,time,location,device
+1,100,1,12,New York,Mobile
+2,200,0,14,Los Angeles,Desktop
+3,5000,1,20,Chicago,Mobile
+4,50,0,8,Miami,Tablet
+5,7000,1,22,San Francisco,Mobile
+6,150,0,9,Houston,Desktop
+7,80,1,6,Dallas,Mobile
+8,9000,0,18,Seattle,Tablet
+9,20,1,11,Boston,Desktop
+10,10000,0,23,Atlanta,Mobile
+11,350,1,10,Denver,Tablet
+12,4500,0,19,New York,Desktop
+13,75,1,7,San Diego,Mobile
+14,6200,1,21,Chicago,Tablet
+15,2000,0,15,Los Angeles,Mobile
+16,900,1,17,Houston,Desktop
+17,120,0,5,Miami,Mobile
+18,500,1,13,Seattle,Tablet
+19,8500,0,22,Boston,Desktop
+20,300,1,16,Dallas,Mobile
+21,250,1,20,San Francisco,Tablet
+22,7200,0,23,New York,Mobile
+23,180,1,14,Denver,Desktop
+24,100,0,8,Atlanta,Mobile
+25,4800,1,19,Chicago,Tablet
+26,8356,1,13,San Francisco,Mobile
+27,49,0,16,New York,Desktop
+28,106,0,16,Chicago,Mobile
+29,1721,0,15,Miami,Mobile
+30,336,1,20,Chicago,Mobile
+31,255,0,23,Denver,Desktop
+32,4904,1,9,Chicago,Tablet
+33,6385,0,5,Los Angeles,Desktop
+34,2678,0,21,Denver,Mobile
+35,5915,0,18,Phoenix,Desktop
+36,4558,0,8,Boston,Mobile
+37,244,1,22,Austin,Desktop
+38,324,1,10,Houston,Desktop
+39,7432,1,4,Dallas,Mobile
+40,5838,1,12,New York,Tablet
+41,41,1,15,Boston,Tablet
+42,4081,1,3,Las Vegas,Desktop
+43,2271,1,7,Seattle,Mobile
+44,206,1,16,San Francisco,Desktop
+45,8551,0,11,Austin,Tablet
+46,7061,0,19,Miami,Desktop
+47,8774,0,14,San Diego,Tablet
+48,357,1,18,Seattle,Mobile
+49,425,0,23,Houston,Mobile
+50,8675,1,14,Denver,Tablet
+51,181,1,11,San Francisco,Mobile
+52,9582,0,23,Denver,Tablet
+53,1001,1,5,Houston,Desktop
+54,467,1,8,Miami,Desktop
+55,5200,0,18,Denver,Desktop
+56,4162,0,8,Dallas,Mobile
+57,81,0,13,Denver,Tablet
+58,376,1,6,San Diego,Tablet
+59,4466,0,14,Phoenix,Desktop
+60,76,1,6,Miami,Desktop
+61,91,0,0,Atlanta,Mobile
+62,380,0,12,Las Vegas,Tablet
+63,371,0,10,Las Vegas,Desktop
+64,146,0,1,Austin,Mobile
+65,251,0,6,Las Vegas,Tablet
+66,6169,1,15,Miami,Desktop
+67,239,1,13,New York,Mobile
+68,4155,1,1,Dallas,Desktop
+69,404,0,21,Houston,Desktop
+70,379,0,14,Miami,Mobile
+71,421,1,6,Seattle,Tablet
+72,3992,0,12,Seattle,Desktop
+73,162,1,4,Denver,Tablet
+74,444,0,23,San Francisco,Mobile
+75,369,0,1,Austin,Mobile
+76,3896,1,3,Boston,Mobile
+77,5823,0,17,Denver,Mobile
+78,5275,1,10,Phoenix,Desktop
+79,225,0,18,Dallas,Tablet
+80,195,0,4,Seattle,Mobile
+81,3516,0,12,Las Vegas,Mobile
+82,387,0,16,New York,Mobile
+83,162,0,11,New York,Desktop
+84,9199,1,1,Seattle,Desktop
+85,73,0,16,Denver,Desktop
+86,6146,0,22,Atlanta,Mobile
+87,5427,0,22,Phoenix,Desktop
+88,6368,1,8,New York,Desktop
+89,224,1,8,Houston,Desktop
+90,383,1,14,Phoenix,Tablet
+91,2474,1,17,Las Vegas,Desktop
+92,5500,0,14,Dallas,Desktop
+93,8132,0,7,Boston,Mobile
+94,420,1,23,San Diego,Tablet
+95,1619,1,19,Houston,Tablet
+96,75,1,7,New York,Desktop
+97,228,0,0,Chicago,Mobile
+98,1706,0,10,Atlanta,Mobile
+99,3926,1,3,Dallas,Desktop
+100,9527,0,19,San Francisco,Desktop
+101,1695,0,8,Los Angeles,Tablet
+102,1960,0,16,Denver,Tablet
+103,8209,1,3,New York,Desktop
+104,484,1,17,Atlanta,Desktop
+105,32,0,3,Denver,Tablet
+106,181,1,21,Boston,Desktop
+107,6266,1,16,Chicago,Mobile
+108,9264,1,1,Las Vegas,Tablet
+109,9946,0,2,Miami,Tablet
+110,199,1,15,Chicago,Desktop
+111,3851,1,15,Chicago,Desktop
+112,2293,1,3,Phoenix,Tablet
+113,381,0,16,Boston,Mobile
+114,186,1,8,Seattle,Mobile
+115,7972,0,13,Phoenix,Mobile
+116,189,1,18,Boston,Desktop
+117,5357,1,4,Chicago,Desktop
+118,447,1,15,Chicago,Desktop
+119,208,0,2,Denver,Tablet
+120,321,0,4,San Francisco,Tablet
+121,2146,1,21,Chicago,Mobile
+122,2906,0,1,Seattle,Desktop
+123,7166,0,19,New York,Mobile
+124,11,1,3,San Diego,Mobile
+125,370,0,3,San Francisco,Mobile
+126,285,0,10,San Francisco,Mobile
+127,3625,1,19,Los Angeles,Desktop
+128,381,0,9,New York,Desktop
+129,9255,1,20,Los Angeles,Desktop
+130,3619,1,17,Atlanta,Mobile
+131,4652,0,18,Denver,Mobile
+132,4987,0,8,Los Angeles,Mobile
+133,1139,0,9,Atlanta,Mobile
+134,231,1,8,San Diego,Mobile
+135,220,0,23,Denver,Tablet
+136,5006,1,5,Atlanta,Tablet
+137,3140,1,12,Atlanta,Mobile
+138,3586,0,4,Dallas,Desktop
+139,53,1,18,Dallas,Desktop
+140,7773,1,16,San Diego,Mobile
+141,202,1,0,Chicago,Tablet
+142,41,1,22,Austin,Desktop
+143,75,1,21,Houston,Desktop
+144,205,0,15,Boston,Mobile
+145,8003,1,12,San Francisco,Desktop
+146,3456,1,23,Atlanta,Tablet
+147,9032,1,17,New York,Tablet
+148,7109,0,6,Atlanta,Tablet
+149,323,0,1,Austin,Desktop
+150,384,1,5,Seattle,Desktop
+151,4094,0,21,Los Angeles,Tablet
+152,281,1,6,Dallas,Desktop
+153,358,0,2,Houston,Mobile
+154,96,1,13,San Francisco,Tablet
+155,9403,1,13,Los Angeles,Desktop
+156,3007,1,21,New York,Tablet
+157,23,1,21,San Diego,Desktop
+158,4696,0,13,Los Angeles,Mobile
+159,255,0,16,San Francisco,Tablet
+160,478,0,21,Miami,Mobile
+161,240,0,2,Atlanta,Tablet
+162,6228,1,13,Houston,Tablet
+163,321,0,22,Seattle,Tablet
+164,381,1,12,Chicago,Mobile
+165,2985,0,17,Dallas,Tablet
+166,185,1,1,Denver,Tablet
+167,465,1,7,New York,Mobile
+168,1100,0,4,Seattle,Tablet
+169,8414,1,7,San Francisco,Mobile
+170,1898,1,23,Boston,Tablet
+171,3847,0,7,New York,Tablet
+172,8007,0,11,Miami,Mobile
+173,1605,0,10,San Francisco,Desktop
+174,6735,1,8,Atlanta,Desktop
+175,404,1,11,Chicago,Desktop
+176,414,0,20,Atlanta,Tablet
+177,7420,1,22,San Francisco,Mobile
+178,3624,0,4,Chicago,Tablet
+179,6378,0,16,San Diego,Mobile
+180,4459,0,5,Las Vegas,Desktop
+181,408,1,20,Seattle,Tablet
+182,241,0,9,San Diego,Mobile
+183,107,0,12,Atlanta,Tablet
+184,368,0,7,Los Angeles,Tablet
+185,2745,1,16,Miami,Mobile
+186,365,0,14,Las Vegas,Desktop
+187,76,1,0,Las Vegas,Tablet
+188,203,1,3,Denver,Mobile
+189,152,0,1,Miami,Tablet
+190,5078,0,3,San Diego,Desktop
+191,429,0,4,Austin,Tablet
+192,6323,0,15,San Diego,Mobile
+193,9789,1,12,Atlanta,Tablet
+194,449,0,4,Chicago,Desktop
+195,38,0,12,Dallas,Tablet
+196,3452,0,9,Denver,Desktop
+197,472,1,4,Las Vegas,Desktop
+198,3924,1,5,Las Vegas,Tablet
+199,3762,0,19,Chicago,Tablet
+200,3269,1,1,Las Vegas,Mobile
+201,206,1,3,Seattle,Mobile
+202,9070,1,3,San Diego,Desktop
+203,4000,0,21,Miami,Desktop
+204,9194,1,22,San Francisco,Tablet
+205,8077,0,20,Chicago,Mobile
+206,283,1,16,San Diego,Mobile
+207,477,1,0,Denver,Desktop
+208,120,1,21,Denver,Desktop
+209,6571,1,4,Los Angeles,Tablet
+210,6403,0,23,Austin,Desktop
+211,6899,1,19,Denver,Mobile
+212,306,0,12,New York,Desktop
+213,5958,1,10,Miami,Desktop
+214,2852,0,16,Phoenix,Mobile
+215,260,1,21,Houston,Desktop
+216,297,0,23,San Francisco,Tablet
+217,204,0,18,Denver,Mobile
+218,6138,1,19,San Diego,Tablet
+219,61,0,11,Chicago,Desktop
+220,5697,1,17,New York,Mobile
+221,5452,1,18,Miami,Tablet
+222,409,1,14,Boston,Desktop
+223,438,0,5,Seattle,Mobile
+224,4499,1,19,Houston,Mobile
+225,14,1,3,Chicago,Desktop
+226,4469,0,18,San Francisco,Mobile
+227,2259,1,9,Seattle,Mobile
+228,407,1,14,Houston,Tablet
+229,69,1,9,Austin,Tablet
+230,6228,0,18,Austin,Tablet
+231,468,1,5,Atlanta,Desktop
+232,5073,1,13,Seattle,Desktop
+233,3586,0,5,Austin,Tablet
+234,477,1,9,Chicago,Tablet
+235,5817,1,17,New York,Mobile
+236,269,0,12,Los Angeles,Tablet
+237,67,0,11,Houston,Desktop
+238,9320,1,15,Miami,Desktop
+239,419,0,7,Dallas,Tablet
+240,5734,0,8,Atlanta,Tablet
+241,247,0,19,Atlanta,Desktop
+242,8195,0,5,Dallas,Tablet
+243,9852,1,14,San Diego,Tablet
+244,8320,1,14,Las Vegas,Tablet
+245,5659,0,5,Las Vegas,Tablet
+246,7209,1,9,San Francisco,Desktop
+247,173,1,11,Seattle,Tablet
+248,328,0,18,Atlanta,Desktop
+249,2678,1,23,Phoenix,Tablet
+250,319,1,17,Boston,Mobile
+251,5828,1,11,Las Vegas,Mobile
+252,9151,0,16,San Diego,Tablet
+253,219,0,20,Atlanta,Mobile
+254,294,0,3,Chicago,Mobile
+255,5252,0,6,Las Vegas,Tablet
+256,460,1,7,Miami,Tablet
+257,6664,1,19,Austin,Tablet
+258,1056,1,8,San Diego,Desktop
+259,191,0,18,Las Vegas,Tablet
+260,7506,1,8,Miami,Tablet
+261,5151,1,1,Seattle,Tablet
+262,6872,1,14,San Francisco,Desktop
+263,1837,1,4,Los Angeles,Desktop
+264,323,0,12,Seattle,Tablet
+265,56,0,22,Dallas,Desktop
+266,4915,1,9,Los Angeles,Desktop
+267,2759,0,8,Atlanta,Desktop
+268,186,0,8,Dallas,Desktop
+269,270,1,17,Houston,Tablet
+270,140,1,10,Atlanta,Tablet
+271,4444,1,22,Los Angeles,Desktop
+272,156,1,21,Las Vegas,Desktop
+273,6850,1,2,New York,Tablet
+274,7491,0,23,New York,Tablet
+275,282,0,9,San Diego,Tablet
+276,7752,1,5,Phoenix,Tablet
+277,495,0,0,New York,Mobile
+278,82,1,13,Atlanta,Desktop
+279,368,0,4,Seattle,Tablet
+280,425,1,1,Los Angeles,Tablet
+281,83,1,10,Las Vegas,Tablet
+282,8264,0,4,Denver,Desktop
+283,197,0,16,Boston,Mobile
+284,348,0,20,San Diego,Desktop
+285,478,0,20,Phoenix,Desktop
+286,1986,1,1,San Diego,Mobile
+287,166,1,12,Atlanta,Tablet
+288,5411,1,9,Atlanta,Desktop
+289,8202,0,16,Phoenix,Mobile
+290,2318,1,18,Phoenix,Mobile
+291,2211,1,22,Austin,Tablet
+292,5166,1,7,San Diego,Mobile
+293,4401,1,0,Chicago,Tablet
+294,231,1,18,Boston,Mobile
+295,308,1,23,New York,Tablet
+296,6618,0,0,Chicago,Tablet
+297,175,0,16,San Francisco,Tablet
+298,236,1,15,San Francisco,Desktop
+299,3005,0,12,Las Vegas,Mobile
+300,69,0,9,Austin,Desktop
+301,113,1,13,Denver,Mobile
+302,121,0,9,San Francisco,Mobile
+303,7509,0,23,Miami,Mobile
+304,5877,1,6,Dallas,Mobile
+305,3981,0,9,Los Angeles,Desktop
+306,6052,0,6,Houston,Mobile
+307,5076,0,6,Phoenix,Mobile
+308,109,0,23,San Diego,Desktop
+309,3257,0,8,San Francisco,Tablet
+310,47,0,19,Houston,Desktop
+311,28,1,0,Phoenix,Tablet
+312,6761,0,13,Phoenix,Mobile
+313,197,0,20,Chicago,Desktop
+314,8976,1,4,San Diego,Desktop
+315,247,1,15,San Diego,Mobile
+316,55,0,18,Las Vegas,Tablet
+317,4683,1,12,Dallas,Tablet
+318,7832,0,10,Miami,Mobile
+319,2057,0,1,Phoenix,Mobile
+320,2588,1,0,New York,Tablet
+321,5136,0,23,Houston,Tablet
+322,6455,1,13,Las Vegas,Desktop
+323,8136,1,13,Austin,Desktop
+324,4786,1,5,New York,Desktop
+325,7971,1,4,Las Vegas,Mobile
+326,9616,0,11,Boston,Mobile
+327,378,1,22,San Francisco,Mobile
+328,462,1,16,Phoenix,Mobile
+329,305,1,19,Atlanta,Desktop
+330,9119,1,3,San Francisco,Tablet
+331,3774,0,20,Houston,Tablet
+332,328,0,16,Denver,Desktop
+333,290,0,1,Seattle,Mobile
+334,481,1,17,Denver,Desktop
+335,2700,1,8,Dallas,Tablet
+336,179,0,18,Seattle,Tablet
+337,5401,0,11,San Francisco,Tablet
+338,6215,0,21,Phoenix,Tablet
+339,28,1,9,Austin,Desktop
+340,412,1,13,Las Vegas,Mobile
+341,6033,1,9,Phoenix,Desktop
+342,5112,1,21,New York,Tablet
+343,250,1,0,Chicago,Tablet
+344,217,1,15,San Diego,Tablet
+345,254,0,9,Miami,Mobile
+346,6775,0,3,Seattle,Mobile
+347,278,0,10,Miami,Mobile
+348,1187,1,13,Atlanta,Desktop
+349,134,1,5,New York,Tablet
+350,3178,0,4,Miami,Tablet
+351,278,0,1,Chicago,Desktop
+352,1885,0,2,Seattle,Tablet
+353,95,0,7,Los Angeles,Mobile
+354,29,1,7,Dallas,Desktop
+355,401,0,15,Austin,Tablet
+356,2808,1,19,Phoenix,Tablet
+357,128,1,18,San Francisco,Mobile
+358,337,0,18,Phoenix,Mobile
+359,232,0,4,Denver,Desktop
+360,483,0,19,San Diego,Tablet
+361,2797,1,13,Los Angeles,Mobile
+362,448,0,22,Boston,Mobile
+363,418,0,4,Seattle,Mobile
+364,7112,0,10,New York,Tablet
+365,4240,1,11,Seattle,Desktop
+366,5481,1,21,Denver,Mobile
+367,3442,1,3,Boston,Tablet
+368,1327,0,15,Seattle,Mobile
+369,94,0,20,Boston,Tablet
+370,7594,1,0,New York,Mobile
+371,308,0,15,Miami,Mobile
+372,252,0,14,Atlanta,Desktop
+373,440,1,4,Boston,Tablet
+374,403,0,1,Seattle,Mobile
+375,2071,0,13,Houston,Mobile
+376,9364,0,21,Phoenix,Tablet
+377,3139,0,15,Los Angeles,Tablet
+378,258,1,6,Miami,Desktop
+379,393,0,18,Miami,Desktop
+380,373,1,0,Austin,Desktop
+381,4773,1,6,New York,Mobile
+382,9707,1,4,Seattle,Tablet
+383,482,1,3,New York,Mobile
+384,7825,0,15,Miami,Tablet
+385,3119,0,5,Atlanta,Desktop
+386,1254,1,0,Phoenix,Desktop
+387,490,1,4,New York,Mobile
+388,409,1,20,New York,Tablet
+389,219,1,14,Miami,Mobile
+390,1300,0,18,Austin,Mobile
+391,456,0,1,Denver,Desktop
+392,254,0,23,Denver,Tablet
+393,50,0,0,Miami,Desktop
+394,2148,1,19,Phoenix,Tablet
+395,80,1,5,New York,Mobile
+396,9622,0,13,Atlanta,Tablet
+397,419,0,8,Houston,Tablet
+398,241,0,10,San Diego,Tablet
+399,7213,0,5,Phoenix,Desktop
+400,7085,0,15,Denver,Mobile
+401,53,1,0,Chicago,Tablet
+402,1934,1,15,Los Angeles,Mobile
+403,4243,0,4,Phoenix,Mobile
+404,7428,0,1,Seattle,Desktop
+405,314,0,19,Dallas,Desktop
+406,5270,0,23,Las Vegas,Tablet
+407,6578,0,12,Dallas,Tablet
+408,6112,0,7,Austin,Desktop
+409,277,0,6,Miami,Desktop
+410,172,1,4,Phoenix,Mobile
+411,289,1,13,Las Vegas,Mobile
+412,276,0,11,New York,Mobile
+413,215,1,4,Seattle,Tablet
+414,5919,0,2,Denver,Tablet
+415,266,0,15,San Diego,Desktop
+416,7415,0,19,Austin,Mobile
+417,447,0,23,New York,Desktop
+418,195,1,1,San Francisco,Tablet
+419,421,1,13,Chicago,Tablet
+420,391,0,22,Los Angeles,Tablet
+421,340,0,16,Miami,Tablet
+422,6118,1,11,New York,Desktop
+423,5523,1,20,Houston,Mobile
+424,311,1,23,Atlanta,Desktop
+425,14,0,17,Phoenix,Mobile
+426,7579,1,20,Los Angeles,Desktop
+427,336,0,7,Atlanta,Mobile
+428,261,0,21,San Francisco,Desktop
+429,379,1,10,Atlanta,Mobile
+430,6678,1,22,San Diego,Tablet
+431,306,0,18,Atlanta,Desktop
+432,9007,1,14,Phoenix,Mobile
+433,3119,0,20,Dallas,Tablet
+434,248,1,6,Dallas,Desktop
+435,74,0,13,Los Angeles,Desktop
+436,225,1,1,Houston,Desktop
+437,9578,0,8,San Francisco,Desktop
+438,198,0,13,Chicago,Desktop
+439,1355,1,23,San Francisco,Mobile
+440,43,0,22,San Francisco,Tablet
+441,1819,1,1,Miami,Tablet
+442,1038,0,9,Las Vegas,Mobile
+443,352,1,16,Los Angeles,Desktop
+444,4510,0,19,Atlanta,Desktop
+445,40,0,14,Boston,Mobile
+446,4566,0,23,Chicago,Mobile
+447,5607,0,15,Denver,Tablet
+448,8566,1,11,San Francisco,Desktop
+449,468,0,7,San Diego,Mobile
+450,127,0,1,Seattle,Mobile
+451,6834,1,20,Dallas,Mobile
+452,471,0,11,Las Vegas,Desktop
+453,9831,0,17,Chicago,Desktop
+454,9259,0,19,Chicago,Desktop
+455,106,1,13,San Francisco,Mobile
+456,164,1,4,Las Vegas,Mobile
+457,4438,1,4,Las Vegas,Tablet
+458,449,1,1,Boston,Tablet
+459,279,0,5,Boston,Desktop
+460,70,1,0,Boston,Mobile
+461,182,0,1,Dallas,Desktop
+462,407,0,22,Chicago,Tablet
+463,253,0,6,Seattle,Mobile
+464,246,1,7,Houston,Desktop
+465,5486,1,5,Austin,Tablet
+466,4126,1,20,Denver,Desktop
+467,172,0,18,Austin,Tablet
+468,7735,0,19,Los Angeles,Desktop
+469,4997,1,1,Miami,Desktop
+470,3949,1,2,Dallas,Desktop
+471,165,1,15,Atlanta,Desktop
+472,245,0,11,Seattle,Mobile
+473,5874,0,12,Las Vegas,Mobile
+474,23,0,23,San Diego,Tablet
+475,1153,1,22,Houston,Desktop
+476,304,0,12,Seattle,Desktop
+477,406,0,6,San Diego,Tablet
+478,200,1,11,Dallas,Mobile
+479,7884,1,20,San Francisco,Mobile
+480,2999,1,21,Austin,Desktop
+481,174,1,1,Dallas,Desktop
+482,7279,0,22,Los Angeles,Tablet
+483,6216,0,6,Miami,Mobile
+484,465,1,12,Seattle,Tablet
+485,102,1,10,Los Angeles,Desktop
+486,5042,1,22,Houston,Desktop
+487,7984,0,22,Las Vegas,Mobile
+488,5849,0,7,Austin,Mobile
+489,3618,0,20,Denver,Desktop
+490,8756,1,15,New York,Desktop
+491,264,1,10,Las Vegas,Tablet
+492,2397,1,23,Atlanta,Tablet
+493,1909,1,22,Chicago,Tablet
+494,4562,1,10,Miami,Tablet
+495,323,1,10,Dallas,Mobile
+496,9906,0,21,San Diego,Desktop
+497,5866,1,8,Denver,Desktop
+498,294,0,17,Austin,Mobile
+499,288,0,11,Houston,Desktop
+500,199,1,19,Las Vegas,Tablet

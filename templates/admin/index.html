@@ -1,0 +1,10 @@
+{% extends "admin/base_site.html" %}
+
+{% block content %}
+    <h1>Welcome to the Django Admin Panel</h1>
+    <p>Use the links below to navigate:</p>
+    <ul>
+        <li><a href="{% url 'transactions:admin_dashboard' %}" target="_blank">Go to Admin Dashboard</a></li>
+    </ul>
+    {{ block.super }}
+{% endblock %}
